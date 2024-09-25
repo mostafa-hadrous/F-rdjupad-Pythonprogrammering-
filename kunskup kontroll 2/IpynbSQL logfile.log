@@ -1,0 +1,27 @@
+2024-09-16 12:39: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 12:46: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 12:48: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 12:50: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 12:53: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 12:54: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 14:34: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-16 14:39: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-18 13:57: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-18 13:57: Test logging  : INFO : Program started : 1
+2024-09-18 13:58: Test logging  : INFO : Program started : 1
+2024-09-18 13:58: Test logging  : WARNING : This is a warning message : 3
+2024-09-18 13:58: Test logging  : ERROR : This is an error message : 4
+2024-09-18 13:58: Test logging  : CRITICAL : This is a critical message : 5
+2024-09-18 13:58: Test logging  : INFO : Program finished : 6
+2024-09-19 12:26: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 12:37: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 12:40: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 12:49: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 12:56: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 13:46: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-19 13:52: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-24 08:27: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-24 09:09: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-24 09:10: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-24 09:10: Test logging  : ERROR : It is not allow to change the sheet name : 5
+2024-09-24 09:20: Test logging  : ERROR : It is not allow to change the sheet name : 5
